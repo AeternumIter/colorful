@@ -2,6 +2,8 @@
   "name": "colorful",
   "displayName": "Colorful",
   "description": "very colorful",
+  "publisher": "AeternumIter",
+  "repository": "AeternumIter/colorful",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
